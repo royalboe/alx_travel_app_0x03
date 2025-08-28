@@ -1,0 +1,17 @@
+.venv
+.env
+**/__pycache__/
+# Byte-compiled files
+*.py[cod]
+# C extensions
+*.so
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+eggs-info/
+.idea/
+.vscode/
